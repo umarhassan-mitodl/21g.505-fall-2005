@@ -1,0 +1,18 @@
+---
+content_type: page
+description: ''
+hide_download: true
+hide_download_original: null
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
+parent_title: Readings
+parent_type: CourseSection
+parent_uid: f1d1a37e-7c4b-5e53-ea9d-6246e8016f6f
+title: Reading 26B (12)
+uid: 45921e88-0420-a927-54ba-7f250cc90e4d
+---
+
+１２　　アメリカに来てから最初の五年間は毎年引越していました。アメリカでは、日本のように、礼金や保証金がないので、ちょっと家主とトラブルがあったり、部屋が気に入らなくなったりしたら、すぐアパートを変われるのがいいところだと思います。もちろん、箱に荷物を入れたり出したりするのはめんどくさい ですが、専門の引越屋さんに頼まなくても、友だちが荷物を運ぶのを手伝ってくれますから、引越の費用はそれほどかかりません。
+
+　 でも、おととし子どもが生まれてからは、少しずつですが、うちも家具が増えて、前ほど気軽に動けなくなってきました。幸いにも、今のアパートは静かだし、回りにはスーパーや散歩できる公園もあるので、環境としては文句ありません。理想としては、もう少し広さがあったら最高なんですが、、。 ([MP3](/ans7870/21f/21f.505/f05/audio/Lesson26B-12.mp3))

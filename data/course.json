@@ -1,0 +1,47 @@
+{
+  "term": "Fall",
+  "year": "2005",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Humanities",
+      "Language",
+      "Japanese"
+    ]
+  ],
+  "legacy_uid": "88d7a385-d6c8-3c32-1261-6792e14fa174",
+  "instructors": {
+    "content": [
+      "c664292d-dbe9-aa20-6c7e-01252c3c1158",
+      "a921a4b1-77e4-aa77-8628-5eb97b73d549"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "8ec2621e-f9da-8877-043d-e02bc776bf2a",
+    "website": "21g-505-advanced-japanese-i-fall-2005"
+  },
+  "course_title": "Advanced Japanese I",
+  "hide_download": true,
+  "course_description": "This course covers lessons 22 through 27 of _Japanese: The Spoken Language_ by Eleanor H. Jordan with Mari Noda. The goal of the course is to continue to build oral proficiency by expanding your knowledge of vocabulary and grammar. Class hours will be devoted to developing speaking skills in a variety of circumstances; making requests, invitations, apologies, suggestions, dealing with problems, expressing your opinions, etc. Grammatical and social appropriateness on your utterances will be stressed. Keep in mind that daily tape-work is essential.\n",
+  "department_numbers": [
+    "21G"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "21G.505",
+  "course_image_thumbnail": {
+    "content": "df899d91-cf73-3609-66e9-f274dad0b79c",
+    "website": "21g-505-advanced-japanese-i-fall-2005"
+  },
+  "hide_download_original": true,
+  "learning_resource_types": [
+    "Demonstration Audio",
+    "Demonstration Videos"
+  ],
+  "site_uid": "31e95cd3-070f-4fba-a358-ad06d81d3f9e",
+  "site_short_id": "21g.505-fall-2005",
+  "site_url_path": "courses/21g-505-advanced-japanese-i-fall-2005",
+  "title": "Course Metadata"
+}
