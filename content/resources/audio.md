@@ -4,8 +4,6 @@ description: ''
 file: /courses/21g-505-advanced-japanese-i-fall-2005/f9f8693b04c7d295bd912f44e835388e_audio.jpeg
 file_size: 444
 file_type: image/jpeg
-hide_download: true
-hide_download_original: null
 image_metadata:
   caption: ''
   credit: ''

@@ -3,8 +3,6 @@ content_type: page
 description: This section provides information about the texts, course objectives,
   evaluation criteria, grading criteria, exams and assignments and attendance policy
   for the course.
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
@@ -34,7 +32,7 @@ This course covers lessons 22 through 27 of _Japanese: The Spoken Language_. The
 
 As there is **no fact** (lecture) class in this course, all the class is conducted in Japanese.
 
-Although more class time will be spent on speaking rather than reading and writing. This course also emphasizes developing reading and writing skills. Approximately 150 new kanji will be introduced and kanji quizzes will be given frequently. When reading is assigned, you must be familiarize yourself with the contents of the materials; and in class, you will be asked questions on the contents the materials. You are encouraged to use online dictionaries such as [Popjisyo](http://www.popjisyo.com/WebHint/Portal_e.aspx), and [Rikai](http://www.rikai.com/perl/HomePage.pl?Language=Ja), when reading online reading materials.
+Although more class time will be spent on speaking rather than reading and writing. This course also emphasizes developing reading and writing skills. Approximately 150 new kanji will be introduced and kanji quizzes will be given frequently. When reading is assigned, you must be familiarize yourself with the contents of the materials; and in class, you will be asked questions on the contents the materials. You are encouraged to use online dictionaries such as {{% resource_link "dc4ba8e0-d08a-48d4-b519-588bd059238d" "Popjisyo" %}}, and {{% resource_link "a912ed82-63c3-495a-8651-2597befc4f8a" "Rikai" %}}, when reading online reading materials.
 
 Evaluation
 ----------
